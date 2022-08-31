@@ -1,0 +1,46 @@
+h4{
+    margin: 15px;
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color: blanchedalmond;
+}
+header{
+    position: block;
+    background-color: yellowgreen;
+    padding: 2px;
+    width: 1345px;
+}
+img{
+    position: relative;
+    height: 450px;
+    width: 350px;
+    
+}
+#span0{
+    position: relative;
+    font-size: 20px;
+    top: -400px;
+    justify-content:center
+    
+}
+ul{
+    font-size: 18px;
+    padding: 50px;
+}
+.simpleSpan{
+    
+    padding: 50px;
+    text-decoration: underline;
+
+}
+#idH3{
+    text-align: center;
+    text-decoration: underline overline;
+}
+#idSpan{
+    text-align: center;
+    font-size: 18px;
+}
+

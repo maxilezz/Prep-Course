@@ -1,0 +1,29 @@
+body{
+    background: url(img/background.png);
+}
+h1{
+    color: rosybrown;
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: olivedrab;
+    padding: 50px;
+    border: 6px solid azure;
+}
+a{
+    font-size: 18px;
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+div{
+    margin: 0px auto;
+    text-align: center;
+}
